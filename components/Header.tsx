@@ -24,7 +24,7 @@ export default function Header() {
       <nav className="nav-wrapper">
         <Link href="/" className="site-logo">
           <Image
-            src="/kiersten-hr/img/logo-placeholder.svg"
+            src="/img/logo-placeholder.svg"
             alt="Fractional HR Support"
             width={40}
             height={40}

@@ -20,7 +20,7 @@ export default function RootLayout({
         <link
           rel="icon"
           type="image/svg+xml"
-          href="/kiersten-hr/img/logo-placeholder.svg"
+          href="/img/logo-placeholder.svg"
         />
       </head>
       <body>

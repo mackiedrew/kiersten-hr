@@ -41,7 +41,7 @@ export default function ResourcesPage() {
                     <p>{resource.description}</p>
                   </div>
                   <a
-                    href={`/kiersten-hr/resources-files/${resource.stored_as}`}
+                    href={`/resources-files/${resource.stored_as}`}
                     className="btn btn-navy"
                     download
                   >
