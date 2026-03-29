@@ -29,7 +29,7 @@ export default function ContactPage() {
               within one business day.
             </p>
             <a
-              href="mailto:kiersten@gmail.com"
+              href="mailto:ksanchez.fractionalhr@gmail.com"
               className="btn btn-gold"
               style={{ fontSize: "1.1rem" }}
             >
